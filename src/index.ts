@@ -138,6 +138,7 @@ async function makeListingResponse(
         }
       }
     </style>
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f2bac157781048358069f96ad376f487"}'></script><!-- End Cloudflare Web Analytics -->
   </head>
   <body>
     <h1>Index of ${path}</h1>
